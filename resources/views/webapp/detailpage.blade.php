@@ -36,10 +36,7 @@
     <li class="list-group-item"><b> Linguaggio sviluppo :</b> {{$progetto->linguaggioSviluppo}}</li>
     <li class="list-group-item"><b> Stato :</b>{{$progetto->stato}}</li>
   </ul>
-  <div class="card-body">
-    <a href="#" class="card-link">Card link</a>
-    <a href="#" class="card-link">Another link</a>
-  </div>
+
 </div>
 </div>
 <div class="col-md-8">
